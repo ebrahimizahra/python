@@ -1,5 +1,6 @@
 __author__ = 'esy'
 def bmim(x,y):
+
     if y==0:
      return x
     else:
